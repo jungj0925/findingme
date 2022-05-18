@@ -154,3 +154,9 @@ footer {
 	font-style: italic;
 	font-size: 10px;
 }
+
+.article a{
+	text-decoration: none;
+	color: black;
+	text-shadow: 0 0 3px #F5F5F5, 0 0 5px #000000;
+}
